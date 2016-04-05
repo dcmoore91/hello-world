@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+I created this readme when I opened my GitHub account. Excited to start coding. 
